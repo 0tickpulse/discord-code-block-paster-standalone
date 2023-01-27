@@ -8,7 +8,7 @@ Make sure you have [pnpm](https://pnpm.io/) installed.
 
 1. Git clone this repo
 2. Open the folder in your terminal
-3. Write your token in `out/token.json`.
+3. Write your token in `out/config/token.json`.
 4. Run `pnpm install`.
 
 ## Usage
